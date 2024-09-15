@@ -15,5 +15,3 @@ This is a simple Billing System application built with Tkinter in Python. It all
 - Email: Sends the generated bill to the customer via email.
 - Print: If connected to a printer, prints the final bill.
 - Clear: Clears the inputs
-
-## **Sample Images**
